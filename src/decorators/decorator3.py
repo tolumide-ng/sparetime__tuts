@@ -2,7 +2,6 @@
 
 import logging
 import time
-from functools import wraps
 
 
 def my_logger(orig_func):

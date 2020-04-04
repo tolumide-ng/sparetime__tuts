@@ -2,7 +2,7 @@
 
 
 def left_rotation():
-    n, d = input().split()
+    _, d = input().split()
     v = map(int, input().split())
 
     arr = [val for val in v]
