@@ -1,5 +1,4 @@
 """
-PS: The question was not self explanatory of first/second glance
     - A 1-indexed array of zeros
     - For each operation `a b k` where add k to each array element from index a to b
     - Return the maximum value in the array
